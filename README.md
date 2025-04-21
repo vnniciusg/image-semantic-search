@@ -21,7 +21,7 @@ This project demonstrates how to:
 ## Requirements
 
 - Python 3.11+
-- Dependencies listed in pyproject.toml:
+- Dependencies:
   - langchain-experimental
   - loguru
   - matplotlib
